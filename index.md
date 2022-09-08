@@ -18,9 +18,6 @@ Who am I?
 [<img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111812.png" width="20" />](https://t.me/borisenko_ru)
 - ⚡ Fun fact: Avocados are a fruit, not a vegetable
 
-...and occasionally I make nice pictures like this (Koh Lipe, Thailand)
-<img src="https://github.com/borisenko-ru/borisenko-ru/blob/main/header.jpg">
-
 Alexey Borisenko \
 Digital Petroleum Engineer \
 2022
