@@ -1,4 +1,4 @@
-Welcome to my [Github page](https://github.com/borisenko-ru)
+Welcome to [my Github page](https://github.com/borisenko-ru)
 
 ### Hi there 👋
 
